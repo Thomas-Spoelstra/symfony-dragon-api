@@ -1,2 +1,2 @@
 # symfony-dragon-api
-Symfony API learning
+Learning to build an API from scratch with the Symfony framework
